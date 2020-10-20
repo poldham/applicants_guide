@@ -1,0 +1,27 @@
+# Documents
+
+You will need the following documents:
+
+__Registration__
+
+- A copy of your current passport (pdf format). Needed at Registration.
+- A passport size photo. Bahamas/US standard. Minimum 600 pixels by 600 pixels, maximum 1200 by 1200 pixels. The image must be in colour (24 bits per pixel) in sRGB colour space. jpeg or png format
+
+__Step 3__
+
+- _An authorization letter from your home organization_. A short letter signed by your host institution authorizing you to apply to conduct research in the Bahamas.
+- _A copy of your research proposal and budget_ as submitted or approved by the funding agency. This must include the budget as submitted or approved. It should also include details of any partner organisations (e.g. who form part of a consortium).
+- _Resume (Curriculum Vitae)_
+- _Data Management Plan_. This should include information on arrangements for the storage of specimens or samples that you propose to collect in the Bahamas and related data, including genetic sequence data. 
+- If you are importing or exporting any specimens you will require a permit from the Animal Import Section of the Department of Agriculture <!---this needs to be clarified--->
+- _CITES Certificate (if applicable)_. If you are intending to transport material or specimens covered by CITES through the Bahamas you will need to provide the original CITES permit from the country of origin. 
+
+### Other Permits
+
+A number of other more specialist permits may be required
+
+1. Animal Import/Export.
+2. CITES certificate. _CITES Certificate (if applicable)_. If you are intending to transport material or specimens covered by CITES through the Bahamas you will need to provide the original CITES permit from the country of origin.
+3. Chainsaw Permit. [Hyperlink]
+4. 
+

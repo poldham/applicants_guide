@@ -1,0 +1,24 @@
+--- 
+title: "Bahamas Research Permit and ABS System: Applicants Guide"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "The applicants guide for the Bahamas Research Permit and ABS system"
+---
+
+Status: Unofficial Working Draft
+
+# Welcome
+
+Welcome to the Bahamas Research Permit and ABS system guide for applicants.
+
+This guide has been prepared to assist you through each step of the online research permit and ABS system. The guide will take you through:
+
+- Documents you need to provide
+- Each step in the online system
+- Expectations about project impact and benefit-sharing under the Nagoya Protocol
+- Additional specialist permits that may be required in some cases.

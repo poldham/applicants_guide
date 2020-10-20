@@ -1,0 +1,7 @@
+# Research Locations
+
+The map allows you to search Google Maps and select one or more research locations. Click save for each individual location where you intend to conduct research and then add a new location. 
+
+We hope to offer bounding box markers in future. 
+
+<!--- Offer the capacity to upload a document with a research cruise plan--->
