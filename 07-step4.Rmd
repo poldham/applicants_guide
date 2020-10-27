@@ -1,4 +1,6 @@
-# Research Locations
+# Location
+
+_Status: Working Draft_
 
 The map allows you to search Google Maps and select one or more research locations. Click save for each individual location where you intend to conduct research and then add a new location. 
 
